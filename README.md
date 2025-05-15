@@ -9,10 +9,10 @@ Beyond development, I love reading books — especially classics — and explori
 - 📧 matveevalexander470@gmail.com
 - 📞 +40 747 529 899
 
-- **PORTFOLIO**
+#### PORTFOLIO
 
-  - Source code: [GitHub Repository](https://github.com/AlexanderMatveev2908/REACT__PORTFOLIO)
-  - Website: [Live Demo on Render](https://portfolio-react-ns3z.onrender.com)
+- Source code: [GitHub Repository](https://github.com/AlexanderMatveev2908/REACT__PORTFOLIO)
+- Website: [Live Demo on Render](https://portfolio-react-ns3z.onrender.com)
 
 ## Technologies often used
 
