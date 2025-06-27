@@ -8,8 +8,8 @@ Beyond code, I’m a fan of classic literature 🧐
 
 - **Email**: matveevalexander470@gmail.com
 - **Phone**: +40 747 529 899
-- **Portfolio**: [Live Demo on Render](https://portfolio-react-ns3z.onrender.com)
-- **Source Code**: [GitHub Repo](https://github.com/AlexanderMatveev2908/REACT__PORTFOLIO)
+- **Portfolio**: [Live Demo on Vercel](https://next-portfolio-bay-nine.vercel.app/)
+- **Source Code**: [GitHub Repo](https://github.com/AlexanderMatveev2908/next-portfolio)
 
 ## ⚙️ Technologies I Work With
 
