@@ -18,12 +18,12 @@ Beyond code, I’m a fan of classic literature 🧐
 - **React** (with TypeScript)
 - **Redux Toolkit** (incl. RTK Query)
 - **Next.js**
-- **Tailwind CSS**, **Styled Components**, **Sass**
+- **Tailwind CSS**, **Styled Components**, **Sass**, **Emotion**
 - **Framer Motion**
 
 ### 🛠️ Backend
 
-- **Node.js**, **Express**
+- **Node.js**, **Express**, **Fastify**
 - **PostgreSQL** (with Sequelize)
 - **MongoDB** (with Mongoose)
 - **JWT / JWE**, **SHA / RSA / CBC** (for auth flow )
@@ -51,6 +51,14 @@ Beyond code, I’m a fan of classic literature 🧐
 
 ---
 
+### 📚 [NEXT-PERN LEARNING PLATFORM](https://next-pern-courses-client.fly.dev/)
+
+> A full-stack learning platform, developed with turbo-repo and deployed with client and server each one in its own docker container.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/next-pern-courses)
+
+---
+
 ### 🍕 [MERN\_\_EAT](https://food-app-aqkc.onrender.com)
 
 > A food delivery app with cart, checkout, and responsive UI.
@@ -64,6 +72,14 @@ Beyond code, I’m a fan of classic literature 🧐
 > Hotel booking platform with availability guests management
 
 - [Source Code](https://github.com/AlexanderMatveev2908/MERN__BOOKING)
+
+---
+
+### 🖍️ [NEXT QR-CODE GENERATOR](https://next-qr-code-generator-client.fly.dev)
+
+> A Next.js qr-code generator app that beside generation supports download and copy link for sharing
+
+- [Source Code](https://github.com/AlexanderMatveev2908/next-qr-code-generator)
 
 ---
 
