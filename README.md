@@ -1,8 +1,8 @@
-# Hi I' m Alex✌🏼
+# About Me ✌🏼
 
-I'm a full-stack developer passionate about building fast and secure web applications.
-I enjoy learning new tools, technologies and applying them in real-world projects 🏛️.
-Beyond code, I’m a fan of classic literature 🧐
+I'm a full-stack developer passionate about building **fast**, **secure**, and **scalable** web applications.
+I thrive on learning new technologies and applying them in **real-world projects**, from **frontend interfaces** to **backend infrastructure 🛠️**.
+Besides coding, I enjoy reading, especially **classic literature** from around the world 📚.
 
 ## Contact
 
@@ -11,35 +11,48 @@ Beyond code, I’m a fan of classic literature 🧐
 - **Portfolio**: [Live Demo on Vercel](https://next-portfolio-bay-nine.vercel.app/)
 - **Source Code**: [GitHub Repo](https://github.com/AlexanderMatveev2908/next-portfolio)
 
-## ⚙️ Technologies I Work With
+## ⚙️ Tech Stack & Tools
 
 ### 🧩 Frontend
 
-- **React** (with TypeScript)
-- **Redux Toolkit** (incl. RTK Query)
-- **Next.js**
-- **Tailwind CSS**, **Styled Components**, **Sass**, **Emotion**
-- **Framer Motion**
+- **Core:** HTML • React • Next.js • TypeScript
+- **Forms & Validation:** React Hook Form • Zod
+- **Routing & State:** React Router • Redux Toolkit (RTK Query)
+- **Styling:** Tailwind CSS • Sass • Bootstrap • Styled Components • Emotion
+- **Animation:** Framer Motion
+- **Build Tools:** Vite
+
+---
 
 ### 🛠️ Backend
 
-- **Node.js**, **Express**, **Fastify**
-- **PostgreSQL** (with Sequelize)
-- **MongoDB** (with Mongoose)
-- **JWT / JWE**, **SHA / RSA / CBC** (for auth flow )
-- **Docker**, **Nginx**, **Ngrok**
+- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI
+- **ORM & Validation:** Prisma • Sequelize • SQLAlchemy • Pydantic • Express Validator
+- **Databases:** PostgreSQL • MongoDB (Mongoose)
+- **Security:** JWT • JWE • SHA • RSA • AES-CBC
+- **Email & Assets:** Nodemailer • Cloudinary • Amazon S3
+- **Infrastructure:** Docker • NGINX • Ngrok • Alembic (migrations)
 
-### 🧪 Dev Tools & Workflow
+---
 
-- **Git & GitHub**
-- **VS Code**, **Postman**, **Figma (to follow designs)**
-- **Render**, **Fly.io**, **Vercel** (for deployments)
+### 🔧 Dev Tools & Workflow
+
+- **CI/CD & DevOps:** Git • GitHub Actions • AWS IAM • Fly.io • Vercel • Render
+- **Package & Dependency Management:** Yarn (Berry) • Poetry • Pacman
+- **Editor & Utilities:** VS Code • Zsh • Postman • PgAdmin • Figma
+
+---
+
+### 🧪 Testing
+
+- **E2E & Unit Testing:** Playwright • Jest • Vitest
+
+---
 
 ### 💳 Payments & APIs
 
-- **Stripe API** (custom payment flows)
-- **RESTful API design**
-- **Axios**
+- **APIs:** RESTful Design • Axios • TanStack Query
+- **Payments:** Stripe API (custom flows)
 
 ## 🚀 Main Projects
 
@@ -109,4 +122,4 @@ Beyond code, I’m a fan of classic literature 🧐
 
 ## TL;DR
 
-I'm a curious and passionate full-stack developer who enjoys building clean, scalable apps, and learning something new in every project.
+I’m a chill dev who just likes building cool stuff. 🛠️
