@@ -39,7 +39,7 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 
 - **CI/CD & DevOps:** Git • GitHub Actions • AWS IAM • Fly.io • Vercel • Render
 - **Package & Dependency Management:** Yarn (Berry) • Poetry • Pacman
-- **Editor & Utilities:** VS Code • Zsh • Postman • PgAdmin • Figma
+- **Editor & Utilities:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma
 
 ---
 
