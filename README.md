@@ -16,11 +16,11 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 ### 🧩 Frontend
 
 - **Core:** HTML • React • Next.js • TypeScript
+- **Build Tools:** Vite
 - **Forms & Validation:** React Hook Form • Zod
-- **Routing & State:** React Router • Redux Toolkit (RTK Query)
+- **Routing & State Management:** React Router • Redux Toolkit (RTK Query)
 - **Styling:** Tailwind CSS • Sass • Bootstrap • Styled Components • Emotion
 - **Animation:** Framer Motion
-- **Build Tools:** Vite
 
 ---
 
@@ -31,21 +31,21 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 - **Databases:** PostgreSQL • MongoDB (Mongoose)
 - **Security:** JWT • JWE • SHA • RSA • AES-CBC
 - **Email & Assets:** Nodemailer • Cloudinary • Amazon S3
-- **Infrastructure:** Docker • NGINX • Ngrok • Alembic (migrations)
+- **Infrastructure & Migrations:** Docker • NGINX • Ngrok • Alembic
 
 ---
 
 ### 🔧 Dev Tools & Workflow
 
-- **CI/CD & DevOps:** Git • GitHub Actions • AWS IAM • Fly.io • Vercel • Render
-- **Package & Dependency Management:** Yarn (Berry) • Poetry • Pacman
-- **Editor & Utilities:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma
+- **CI/CD & DevOps:** Git • GitHub Actions • AWS IAM • Fly.io • Render • Vercel
+- **Package Management:** Yarn (Berry) • Poetry • Pacman
+- **Editor & System Tools:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma
 
 ---
 
 ### 🧪 Testing
 
-- **E2E & Unit Testing:** Playwright • Jest • Vitest
+- **Testing Tools:** Playwright • Jest • Vitest
 
 ---
 
