@@ -8,7 +8,7 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 
 - **Email**: matveevalexander470@gmail.com
 - **Phone**: +40 747 529 899
-- **Portfolio**: [Live Demo on Vercel](https://next-portfolio-bay-nine.vercel.app/)
+- **Portfolio**: [Live Demo](https://full-stack-app.dev/)
 - **Source Code**: [GitHub Repo](https://github.com/AlexanderMatveev2908/next-portfolio)
 
 ## ⚙️ Tech Stack & Tools
