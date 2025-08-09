@@ -27,9 +27,9 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 ### 🛠️ Backend
 
 - **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI
-- **ORM & Validation:** Prisma • Sequelize • SQLAlchemy • Pydantic • Express Validator
-- **Databases:** PostgreSQL • MongoDB (Mongoose)
-- **Security:** JWT • JWE • SHA • RSA • AES-CBC
+- **ORM & Validation:** Prisma • Sequelize • SQLAlchemy • Mongoose • Pydantic • Zod • Express Validator
+- **Databases:** PostgreSQL • MongoDB
+- **Security:** JWT • JWE • SHA • RSA-OAEP • AES-CBC • AES-GCM
 - **Email & Assets:** Nodemailer • Aiosmtplib • Cloudinary • Amazon S3
 - **Infrastructure & Migrations:** Docker • NGINX • Ngrok • Alembic
 
