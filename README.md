@@ -56,6 +56,14 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 
 ## 🚀 Main Projects
 
+### 📋 [PFN_JOB-APPLICATION-TRACKER](https://pfn-job-application-tracker-client.fly.dev/)
+
+> A full-stack app to track applications you send companies. Currently working on it 🛠️.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/PFN-job-application-tracker)
+
+---
+
 ### 📚 [PERN\_\_BOOK](https://pern-book.fly.dev/)
 
 > A full-stack bookstores platform with Stripe integration, role-based access, and Dockerized deployment.
