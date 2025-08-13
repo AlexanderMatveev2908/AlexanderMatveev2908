@@ -130,4 +130,4 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 
 ## TL;DR
 
-I’m just a chill dev who likes building cool stuff. 🛠️
+I’m just a chill dev who likes building cool stuff 🛠️
