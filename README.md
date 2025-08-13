@@ -30,7 +30,7 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 - **ORM & Validation:** Prisma • Sequelize • SQLAlchemy • Mongoose • Pydantic • Zod • Express Validator
 - **Databases:** PostgreSQL • MongoDB
 - **Security:** JWT • JWE • SHA • RSA-OAEP • AES-CBC • AES-GCM
-- **Email & Assets:** Nodemailer • Aiosmtplib • Cloudinary • Amazon S3
+- **Email & Assets:** Nodemailer • Aiosmtplib • AWS SES • Cloudinary • AWS S3
 - **Infrastructure & Migrations:** Docker • NGINX • Ngrok • Alembic
 
 ---
