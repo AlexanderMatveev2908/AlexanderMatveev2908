@@ -37,7 +37,7 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 
 ### 🔧 Dev Tools & Workflow
 
-- **CI/CD & DevOps:** Git • GitHub Actions • AWS IAM • Fly.io • Render • Vercel • Supabase • Upstash • Brevo • Namecheap
+- **CI/CD & DevOps:** Git • GitHub Actions • AWS • Fly.io • Render • Vercel • Supabase • Upstash • Aiven • Brevo • Namecheap
 - **Package Management:** Yarn (Berry) • Poetry • Pacman
 - **Editor & System Tools:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma
 
