@@ -29,7 +29,7 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 - **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI
 - **ORM & Validation:** Prisma • Sequelize • SQLAlchemy • Mongoose • Pydantic • Zod • Express Validator
 - **Databases:** PostgreSQL • MongoDB • Redis
-- **Security:** JWT • JWE • SHA • RSA-OAEP • AES-CBC • AES-GCM
+- **Security:** JWT • JWE • SHA • HMAC • HKDF • RSA-OAEP • AES-CBC • AES-GCM
 - **Email & Assets:** Nodemailer • Aiosmtplib • AWS SES • Cloudinary • AWS S3
 - **Infrastructure & Migrations:** Docker • NGINX • Ngrok • Alembic
 
@@ -37,9 +37,9 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 
 ### 🔧 Dev Tools & Workflow
 
-- **CI/CD & DevOps:** Git • GitHub Actions • AWS • Fly.io • Render • Vercel • Supabase • Upstash • Aiven • Brevo • Namecheap
+- **CI/CD & DevOps:** Git • GitHub Actions • AWS • Fly.io • Render • Vercel • Supabase • Upstash • Aiven • Brevo • Zoho • Namecheap
 - **Package Management:** Yarn (Berry) • Poetry • Pacman
-- **Editor & System Tools:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma
+- **Editor & System Tools:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma • Canva
 
 ---
 
