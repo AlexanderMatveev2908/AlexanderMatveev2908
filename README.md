@@ -11,11 +11,6 @@ Besides coding, I enjoy reading, especially **classic literature** from around t
 - **Portfolio**: [Live Demo](https://full-stack-app.dev/)
 - **Source Code**: [GitHub Repo](https://github.com/AlexanderMatveev2908/next-portfolio)
 
-Ohh nice list buddy 🤩🔥 — looks like a real **Swiss army knife** 🛠️ of modern dev tools.
-It’s already good, but we can polish it a bit to make it **cleaner, sharper, and more impactful** (so recruiters or teammates don’t get overwhelmed by the wall of text).
-
-Here’s how I’d improve it:
-
 ---
 
 ## ⚙️ Tech Stack & Tools
