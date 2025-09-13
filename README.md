@@ -1,0 +1,138 @@
+# About Me ✌🏼
+
+I'm a full-stack developer passionate about building **fast**, **secure**, and **scalable** web applications.
+I thrive on learning new technologies and applying them in **real-world projects**, from **frontend interfaces** to **backend infrastructure 🛠️**.
+Besides coding, I enjoy reading, especially **classic literature** 📚.
+
+## Contact
+
+- **Email**: matveevalexander470@gmail.com
+- **Phone**: +40 747 529 899
+- **Portfolio**: [Live Demo](https://full-stack-app.dev/)
+- **Source Code**: [GitHub Repo](https://github.com/AlexanderMatveev2908/next-portfolio)
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+### 🧩 **Frontend**
+
+- **Core:** React • Next.js • TypeScript • HTML • CSS
+- **Build Tools:** Vite
+- **Forms & Validation:** React Hook Form • Zod
+- **Routing & State:** React Router • Redux Toolkit (RTK Query)
+- **Styling & UI:** Tailwind CSS • Sass • Bootstrap • Styled Components • Emotion
+- **Animation:** Framer Motion
+
+---
+
+### 🛠️ **Backend**
+
+- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI
+- **ORMs & Validation:** Prisma • SQLAlchemy • Sequelize • Mongoose • Pydantic • Zod
+- **Databases & Caching:** PostgreSQL • MongoDB • Redis
+- **Security & Crypto:** JWT • JWE • SHA • HMAC • HKDF • RSA-OAEP • AES (CBC/GCM)
+- **Email & Storage:** Nodemailer • Aiosmtplib • AWS SES • Cloudinary • AWS S3
+- **Infra & Migrations:** Docker • NGINX • Alembic • Ngrok
+
+---
+
+### 🔧 **DevOps & Workflow**
+
+- **CI/CD & Cloud:** Git • GitHub Actions • Docker Hub • Kubernetes (Kind) • Fly.io • Render • Vercel • AWS • Supabase • Upstash • Aiven
+- **Domain & Email Mgmt:** Namecheap • Brevo • Zoho
+- **Package & Dependency Mgmt:** Yarn (Berry) • Poetry • Pacman
+- **Editor & System Tools:** VS Code • Linux • Zsh • Postman • PgAdmin • Figma • Canva
+
+---
+
+### 🧪 **Testing**
+
+- **Frameworks & Tools:** Playwright • Jest • Vitest • Pytest
+
+---
+
+### 💳 **Payments & APIs**
+
+- **API Design:** RESTful • Axios • TanStack Query
+- **Payments:** Stripe (custom payment flows)
+
+---
+
+## 🚀 Main Projects
+
+### 📋 [PFN_JOB-APPLICATION-TRACKER](https://pfn-job-application-tracker-client.fly.dev/)
+
+> A full-stack app to track applications you send companies.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/PFN-job-application-tracker)
+
+---
+
+### 📚 [PERN\_\_BOOK](https://pern-book.fly.dev/)
+
+> A full-stack bookstores platform with Stripe integration, role-based access, and Dockerized deployment.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/pern__book)
+
+---
+
+### 📚 [NEXT-PERN LEARNING PLATFORM](https://next-pern-courses-client.fly.dev/)
+
+> A full-stack learning platform, developed with turbo-repo and deployed with client and server each one in its own docker container.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/next-pern-courses)
+
+---
+
+### 🍕 [MERN\_\_EAT](https://food-app-aqkc.onrender.com)
+
+> A food delivery app with cart, checkout, and responsive UI.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/MERN__EAT)
+
+---
+
+### 🛎️ [MERN\_\_BOOKING](https://mern-booking-app-0w8v.onrender.com)
+
+> Hotel booking platform with availability guests management
+
+- [Source Code](https://github.com/AlexanderMatveev2908/MERN__BOOKING)
+
+---
+
+### 🖍️ [NEXT QR-CODE GENERATOR](https://next-qr-code-generator-client.fly.dev)
+
+> A Next.js qr-code generator app that beside generation supports download and copy link for sharing
+
+- [Source Code](https://github.com/AlexanderMatveev2908/next-qr-code-generator)
+
+---
+
+### 🎮 [NEXT MEMORY-GAME](https://next-memory-game-ten.vercel.app/)
+
+> A Next.js memory game using `app/` directory, Redux Toolkit, and animation with Framer Motion.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/next-memory-game)
+
+---
+
+### 🕹️ [REACT X0 GAME](https://react-x0.onrender.com)
+
+> Classic tic-tac-toe with win detection logic.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/REACT__X0)
+
+---
+
+### ➗ [REACT CALCULATOR](https://react-calculator-imc7.onrender.com)
+
+> A minimal yet responsive calculator with error handling
+
+- [Source Code](https://github.com/AlexanderMatveev2908/REACT_CALCULATOR)
+
+---
+
+## TL;DR
+
+I’m just a chill dev who likes building cool stuff 🛠️
