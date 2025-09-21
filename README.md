@@ -61,6 +61,15 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
+### 📋 [PSN_JOB-APPLICATION-TRACKER](https://psn-job-application-tracker-client.fly.dev)
+
+> A full-stack application for tracking job applications.
+> I previously built a version of this app with a Python (FastAPI) backend, fully covered with unit and end-to-end tests. For this project, I reused the same Next client template, but rebuilt the server from scratch in Java (Spring Boot) to strengthen my backend skills in a different stack.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/psn-job-application-tracker)
+
+---
+
 ### 📋 [PFN_JOB-APPLICATION-TRACKER](https://pfn-job-application-tracker-client.fly.dev/)
 
 > A full-stack app to track applications you send companies.
