@@ -28,12 +28,12 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ### 🛠️ **Backend**
 
-- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI
-- **ORMs & Validation:** Prisma • SQLAlchemy • Sequelize • Mongoose • Pydantic • Zod
+- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI • Java • Spring Boot (Reactive WebFlux)
+- **ORMs & Validation:** Prisma • SQLAlchemy • Spring Data R2DBC (Reactive ORM layer) • Sequelize • Mongoose • Pydantic • Zod • Jakarta Validation
 - **Databases & Caching:** PostgreSQL • MongoDB • Redis
 - **Security & Crypto:** JWT • JWE • SHA • HMAC • HKDF • RSA-OAEP • AES (CBC/GCM)
 - **Email & Storage:** Nodemailer • Aiosmtplib • AWS SES • Cloudinary • AWS S3
-- **Infra & Migrations:** Docker • NGINX • Alembic • Ngrok
+- **Infra & Migrations:** Docker • NGINX • Alembic • Liquibase • Ngrok
 
 ---
 
@@ -48,7 +48,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ### 🧪 **Testing**
 
-- **Frameworks & Tools:** Playwright • Jest • Vitest • Pytest
+- **Frameworks & Tools:** Playwright • Jest • Vitest • Pytest • JUnit
 
 ---
 
