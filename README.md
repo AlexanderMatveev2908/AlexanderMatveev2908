@@ -94,22 +94,6 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🍕 [MERN\_\_EAT](https://food-app-aqkc.onrender.com)
-
-> A food delivery app with cart, checkout, and responsive UI.
-
-- [Source Code](https://github.com/AlexanderMatveev2908/MERN__EAT)
-
----
-
-### 🛎️ [MERN\_\_BOOKING](https://mern-booking-app-0w8v.onrender.com)
-
-> Hotel booking platform with availability guests management
-
-- [Source Code](https://github.com/AlexanderMatveev2908/MERN__BOOKING)
-
----
-
 ### 🖍️ [NEXT QR-CODE GENERATOR](https://next-qr-code-generator-client.fly.dev)
 
 > A Next.js qr-code generator app that beside generation supports download and copy link for sharing
@@ -131,6 +115,22 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 > Classic tic-tac-toe with win detection logic.
 
 - [Source Code](https://github.com/AlexanderMatveev2908/REACT__X0)
+
+---
+
+### 🍕 [MERN\_\_EAT](https://food-app-aqkc.onrender.com)
+
+> A food delivery app with cart, checkout, and responsive UI.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/MERN__EAT)
+
+---
+
+### 🛎️ [MERN\_\_BOOKING](https://mern-booking-app-0w8v.onrender.com)
+
+> Hotel booking platform with availability guests management
+
+- [Source Code](https://github.com/AlexanderMatveev2908/MERN__BOOKING)
 
 ---
 
