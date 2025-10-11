@@ -61,6 +61,16 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
+### 📋 [ASP_JOB-APPLICATION-TRACKER](https://asp-job-application-tracker-client.fly.dev/)
+
+> A full-stack application for tracking job applications.
+> The first version was built with **Next.js** on the frontend and **Python** on the backend. Later, I rebuilt the backend in **Java**, focusing on scalability and cleaner API design while keeping the **Next.js** client.
+> This version has the client built with **Angular**, allowing me to focus entirely on the interface since the backend was already developed and thoroughly tested.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/asp-job-application-tracker)
+
+---
+
 ### 📋 [PSN_JOB-APPLICATION-TRACKER](https://psn-job-application-tracker-client.fly.dev)
 
 > A full-stack application for tracking job applications.
