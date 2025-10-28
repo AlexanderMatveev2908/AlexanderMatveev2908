@@ -17,12 +17,12 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ### 🧩 **Frontend**
 
-- **Core:** React • Next.js • TypeScript • HTML • CSS
-- **Build Tools:** Vite
-- **Forms & Validation:** React Hook Form • Zod
-- **Routing & State:** React Router • Redux Toolkit (RTK Query)
+- **Core:** Angular (Zoneless v20+) • React • Next.js • TypeScript • HTML • CSS
+- **Build Tools:** Vite • Angular CLI
+- **Forms & Validation:** Angular Reactive Forms • React Hook Form • Zod
+- **Routing & State:** NgRx • Redux Toolkit (RTK Query) • React Router
 - **Styling & UI:** Tailwind CSS • Sass • Bootstrap • Styled Components • Emotion
-- **Animation:** Framer Motion
+- **Animation:** Motion One (Angular) • Framer Motion (React)
 
 ---
 
@@ -54,7 +54,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ### 💳 **Payments & APIs**
 
-- **API Design:** RESTful • Axios • TanStack Query
+- **API Design & Data Fetching:** RESTful • RxJS (Angular) • Axios • TanStack Query
 - **Payments:** Stripe (custom payment flows)
 
 ---
