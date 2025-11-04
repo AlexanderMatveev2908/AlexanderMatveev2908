@@ -61,6 +61,14 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
+### 🌤️ [ASP_WEATHER-APP](https://asp-weather-app-client.fly.dev/)
+
+> A full-stack weather app with cached results in **Remote Dictionary**.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/asp-weather-app)
+
+---
+
 ### 📋 [ASP_JOB-APPLICATION-TRACKER](https://asp-job-application-tracker-client.fly.dev/)
 
 > A full-stack application for tracking job applications.
