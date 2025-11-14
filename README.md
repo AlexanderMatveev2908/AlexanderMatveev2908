@@ -61,7 +61,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
-### 📑 [ASP\_\_PRODUCT-FEEDBACK](https://asp-product-feedback-client.fly.dev)
+### 📑 [ASP Product-Feedback](https://asp-product-feedback-client.fly.dev)
 
 > A full-stack **Product Feedback** application.
 
@@ -69,7 +69,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🌤️ [ASP_WEATHER-APP](https://asp-weather-app-client.fly.dev/)
+### 🌤️ [ASP Weather-App](https://asp-weather-app-client.fly.dev/)
 
 > A full-stack weather app with cached results in **Remote Dictionary**.
 
@@ -77,7 +77,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 📋 [ASP_JOB-APPLICATION-TRACKER](https://asp-job-application-tracker-client.fly.dev/)
+### 📋 [ASP Job-Application-Tracker](https://asp-job-application-tracker-client.fly.dev/)
 
 > A full-stack application for tracking job applications.
 > The first version was built with **Next.js** on the frontend and **Python** on the backend. Later, I rebuilt the backend in **Java**, focusing on scalability and cleaner API design while keeping the **Next.js** client.
@@ -87,7 +87,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 📋 [PSN_JOB-APPLICATION-TRACKER](https://psn-job-application-tracker-client.fly.dev)
+### 📋 [PSN Job-Application-Tracker](https://psn-job-application-tracker-client.fly.dev)
 
 > A full-stack application for tracking job applications.
 > I previously built a version of this app with a Python (FastAPI) backend, fully covered with unit and end-to-end tests. For this project, I reused the same Next client template, but rebuilt the server from scratch in Java (Spring Boot) to strengthen my backend skills in a different stack.
@@ -96,7 +96,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 📋 [PFN_JOB-APPLICATION-TRACKER](https://pfn-job-application-tracker-client.fly.dev/)
+### 📋 [PFN Job-Application-Tracker](https://pfn-job-application-tracker-client.fly.dev/)
 
 > A full-stack app to track applications you send companies.
 
@@ -104,7 +104,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 📚 [PERN\_\_BOOK](https://pern-book.fly.dev/)
+### 📚 [PERN Book](https://pern-book.fly.dev/)
 
 > A full-stack bookstores platform with Stripe integration, role-based access, and Dockerized deployment.
 
@@ -112,7 +112,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 📚 [NEXT-PERN LEARNING PLATFORM](https://next-pern-courses-client.fly.dev/)
+### 📚 [NEXT-PERN Learning-Platform](https://next-pern-courses-client.fly.dev/)
 
 > A full-stack learning platform, developed with turbo-repo and deployed with client and server each one in its own docker container.
 
@@ -120,7 +120,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🖍️ [NEXT QR-CODE GENERATOR](https://next-qr-code-generator-client.fly.dev)
+### 🖍️ [NEXT Qr-Code Generator](https://next-qr-code-generator-client.fly.dev)
 
 > A Next.js qr-code generator app that beside generation supports download and copy link for sharing
 
@@ -128,7 +128,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🎮 [NEXT MEMORY-GAME](https://next-memory-game-ten.vercel.app/)
+### 🎮 [NEXT Memory-Game](https://next-memory-game-ten.vercel.app/)
 
 > A Next.js memory game using `app/` directory, Redux Toolkit, and animation with Framer Motion.
 
@@ -136,7 +136,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🕹️ [REACT X0 GAME](https://react-x0.onrender.com)
+### 🕹️ [REACT X0 Game](https://react-x0.onrender.com)
 
 > Classic tic-tac-toe with win detection logic.
 
@@ -144,7 +144,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🍕 [MERN\_\_EAT](https://food-app-aqkc.onrender.com)
+### 🍕 [MERN Eat](https://food-app-aqkc.onrender.com)
 
 > A food delivery app with cart, checkout, and responsive UI.
 
@@ -152,7 +152,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 🛎️ [MERN\_\_BOOKING](https://mern-booking-app-0w8v.onrender.com)
+### 🛎️ [MERN Booking](https://mern-booking-app-0w8v.onrender.com)
 
 > Hotel booking platform with availability guests management
 
@@ -160,7 +160,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### ➗ [REACT CALCULATOR](https://react-calculator-imc7.onrender.com)
+### ➗ [REACT Calculator](https://react-calculator-imc7.onrender.com)
 
 > A minimal yet responsive calculator with error handling
 
