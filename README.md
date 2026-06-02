@@ -28,12 +28,13 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ### 🛠️ **Backend**
 
-- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI • Java • Spring Boot (Reactive WebFlux) • C# • ASP.NET
-- **ORMs & Validation:** Prisma • SQLAlchemy • Spring Data R2DBC (Reactive ORM layer) • Sequelize • Mongoose • Pydantic • Zod • Jakarta Validation
-- **Databases & Caching:** PostgreSQL • MongoDB • Redis
-- **Security & Crypto:** JWT • JWE • SHA • HMAC • HKDF • RSA-OAEP • AES (CBC/GCM)
-- **Email & Storage:** Nodemailer • Aiosmtplib • AWS SES • Cloudinary • AWS S3
-- **Infra & Migrations:** Docker • NGINX • Alembic • Liquibase • Ngrok
+- **Languages & Frameworks:** C# • ASP.NET Core • Java • Spring Boot (Reactive WebFlux) • Python • FastAPI • Node.js • Express • Fastify
+- **Databases & Caching:** PostgreSQL • SQL Server • MongoDB • Redis
+- **ORMs, Data Access & Validation:** Entity Framework Core • Dapper • Prisma • SQLAlchemy • Spring Data R2DBC • Sequelize • Mongoose • FluentValidation • Data Annotations • Pydantic • Zod • Jakarta Validation
+- **Authentication & Security:** JWT • JWE • ASP.NET Identity • RBAC • SHA • HMAC • HKDF • RSA-OAEP • AES (CBC/GCM)
+- **Infrastructure & DevOps:** Docker • NGINX • GitHub Actions • Fly.io • Vercel • Ngrok
+- **Cloud & Storage:** AWS S3 • AWS SES • Cloudinary
+- **ASP.NET Core:** Minimal APIs • Middleware • Dependency Injection • Endpoint Filters • Rate Limiting • Logging • Health Checks • CORS • OpenAPI / Swagger
 
 ---
 
