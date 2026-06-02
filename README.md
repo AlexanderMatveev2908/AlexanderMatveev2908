@@ -28,7 +28,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ### 🛠️ **Backend**
 
-- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI • Java • Spring Boot (Reactive WebFlux)
+- **Languages & Frameworks:** Node.js • Express • Fastify • Python • FastAPI • Java • Spring Boot (Reactive WebFlux) • C# • ASP.NET
 - **ORMs & Validation:** Prisma • SQLAlchemy • Spring Data R2DBC (Reactive ORM layer) • Sequelize • Mongoose • Pydantic • Zod • Jakarta Validation
 - **Databases & Caching:** PostgreSQL • MongoDB • Redis
 - **Security & Crypto:** JWT • JWE • SHA • HMAC • HKDF • RSA-OAEP • AES (CBC/GCM)
