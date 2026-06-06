@@ -62,6 +62,14 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
+### 📑 [Invoices Management App](https://invoices-app-client.fly.dev/)
+
+> A full-stack **Invoices Management** application.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/InvoicesApp)
+
+---
+
 ### 📑 [ASP Product-Feedback](https://asp-product-feedback-client.fly.dev)
 
 > A full-stack **Product Feedback** application.
