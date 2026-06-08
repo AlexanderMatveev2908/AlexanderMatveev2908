@@ -62,7 +62,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
-### 📑 [Gym Schedules App](https://gym-schedules-client.fly.dev)
+### 🤸 [Gym Schedules App](https://gym-schedules-client.fly.dev)
 
 > A full-stack **Gym schedules manager** application.
 
