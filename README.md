@@ -70,7 +70,7 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ---
 
-### 📑 [Invoices Management App](https://invoices-app-client.fly.dev/)
+### 💰 [Invoices Management App](https://invoices-app-client.fly.dev/)
 
 > A full-stack **Invoices Management** application.
 
