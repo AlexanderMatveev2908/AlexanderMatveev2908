@@ -62,14 +62,6 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
-### 🤸 [Gym Schedules App](https://gym-schedules-client.fly.dev)
-
-> A full-stack **Gym schedules manager** application.
-
-- [Source Code](https://github.com/AlexanderMatveev2908/GymSchedules)
-
----
-
 ### 💰 [Invoices Management App](https://invoices-app-client.fly.dev/)
 
 > A full-stack **Invoices Management** application.
