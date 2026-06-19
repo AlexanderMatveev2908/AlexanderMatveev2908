@@ -62,6 +62,14 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
+### 🍖 [Recipes App](https://recipes-app-client.fly.dev)
+
+> Frontend Recipes App.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/RecipesApp)
+
+---
+
 ### 💰 [Invoices Management App](https://invoices-app-client.fly.dev/)
 
 > A full-stack **Invoices Management** application.
