@@ -62,6 +62,14 @@ Besides coding, I enjoy reading, especially **classic literature** 📚.
 
 ## 🚀 Main Projects
 
+### 💌 [Blog App](https://ng-blog.fly.dev/)
+
+> Frontend Blog App.
+
+- [Source Code](https://github.com/AlexanderMatveev2908/ng_blog)
+
+---
+
 ### 🍖 [Recipes App](https://recipes-app-client.fly.dev)
 
 > Frontend Recipes App.
